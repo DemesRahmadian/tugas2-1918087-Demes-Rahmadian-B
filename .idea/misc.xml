@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Matkul/kuliah/praktikum/semester 5/Mobile Programing/bab 2/app/src/main/res/layout/activity_main.xml" value="0.12" />
-        <entry key="..\:/Matkul/kuliah/praktikum/semester 5/Mobile Programing/bab 2/app/src/main/res/layout/fragment1.xml" value="0.12273550724637682" />
-        <entry key="..\:/Matkul/kuliah/praktikum/semester 5/Mobile Programing/bab 2/app/src/main/res/layout/fragment2.xml" value="0.20108695652173914" />
+        <entry key="..\:/Matkul/kuliah/praktikum/semester 5/Mobile Programing/bab 2/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Matkul/kuliah/praktikum/semester 5/Mobile Programing/bab 2/app/src/main/res/layout/fragment1.xml" value="0.15" />
+        <entry key="..\:/Matkul/kuliah/praktikum/semester 5/Mobile Programing/bab 2/app/src/main/res/layout/fragment2.xml" value="0.17" />
+        <entry key="..\:/Matkul/kuliah/praktikum/semester 5/Mobile Programing/bab 2/app/src/main/res/layout/fragment3.xml" value="0.15416666666666667" />
+        <entry key="..\:/Matkul/kuliah/praktikum/semester 5/Mobile Programing/bab 2/app/src/main/res/layout/fragment4.xml" value="0.15416666666666667" />
       </map>
     </option>
   </component>

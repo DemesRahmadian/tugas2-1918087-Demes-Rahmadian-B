@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.fragment_1918093"
+        applicationId "com.example.fragment_1918087"
         minSdk 26
         targetSdk 31
         versionCode 1
